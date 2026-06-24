@@ -33,8 +33,6 @@ The dashboard was developed to answer the following business questions:
 
 ![Customer Analytics Dashboard](Customer Analytics&Revenue Dashboard.png)
 
----
-
 ## 🔍 Key Insights
 
 - The highest volume of customers comes from the female segment.
