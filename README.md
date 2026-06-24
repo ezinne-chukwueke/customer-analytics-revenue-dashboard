@@ -11,7 +11,7 @@ This project presents an interactive, business-focused customer analytics dashbo
 The dashboard was developed to answer the following business questions:
 
 - Which customer groups generate the highest revenue?
-- Which gender segment represent brings in the highest volume of customers?
+- Which gender segment represents the largest customer base?
 - How does revenue vary across different age groups?
 - Which shopping malls attract the highest customer traffic?
 - Which payment methods are most preferred by customers?
@@ -29,14 +29,13 @@ The dashboard was developed to answer the following business questions:
 
 ---
 
-## 📊 Dashboard Preview
+## 📊 Dashboard Overview
 
 ![Customer Analytics Dashboard](customer-analytics-revenue-dashboard.png)
 
 ## 🔍 Key Insights
 
-- The highest volume of customers comes from the female segment.
-- Female customers contributed the largest share of total revenue.
+- Female customers represent the largest customer segment and contribute the highest share of total revenue.
 - Elderly customers generated the highest revenue among all age groups.
 - Mall of Istanbul and Kanyon recorded the highest customer traffic.
 - Cash was the most frequently used payment method.
@@ -46,11 +45,11 @@ The dashboard was developed to answer the following business questions:
 
 ## 💡 Business Recommendations
 
-- Maintain strong engagement startegies for high-value customer segments.
--Launch targeted campaigns and tailored product positioning to reduce the gender customer gap.
-- Increase promotional activities in high-performing shopping malls.
-- Encourage digital payment adoption while maintaining support for cash transactions.
-- Continue monitoring customer trends to improve business planning.
+- Strengthen engagement strategies for high-value customer segments to drive customer retention and revenue growth.
+- Develop targeted marketing campaigns and tailored product positioning to attract underrepresented customer groups.
+- Increase promotional activities and customer engagement initiatives in high-performing shopping malls.
+- Encourage greater adoption of digital payment methods while maintaining support for cash transactions.
+- Continue monitoring customer behavior and revenue trends to support data-driven business planning.
 
 ---
 
