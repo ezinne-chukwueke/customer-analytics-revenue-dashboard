@@ -31,7 +31,7 @@ The dashboard was developed to answer the following business questions:
 
 ## 📊 Dashboard Preview
 
-![Customer Analytics Dashboard](Customer Analytics&Revenue Dashboard.png)
+![Customer Analytics Dashboard](customer-analytics-revenue-dashboard.png)
 
 ## 🔍 Key Insights
 
