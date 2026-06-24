@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project showcases an interactive Excel dashboard developed to analyze customer demographics, revenue trends, shopping behavior, and payment preferences. The dashboard transforms transactional data into meaningful business insights that support data-driven decision-making.
+This project presents an interactive, business-focused customer analytics dashboard built in Excel to evaluate customer demographics, revenue performance, shopping behavior, and payment preferences. The analysis was designed to answer key business questions and support data-driven decision-making through actionable insights and recommendations.
 
 ---
 
